@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @swati-2004
 - 👀 I’m interested in programing and  problem solving .
-- 🌱 I’m  Recently graduated .
+- 🌱 I’m Recently graduated .
+- 📝 I'm ready to contribute.
 - 💞️ I’m looking to collaborate on training and internship.
 - 📫 How to reach me throw my email id @swatirajput8077@gmail.com .
 
